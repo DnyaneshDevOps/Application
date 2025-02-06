@@ -1,2 +1,0 @@
-This is FileB
-This is change to FileB
