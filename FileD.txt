@@ -1,3 +1,4 @@
 This is FileD in FeatureB Branch
 Lets Make change in FileD
 Lets Make One More Change in FileD
+This is a Squash Merge
