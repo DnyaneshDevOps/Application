@@ -12,4 +12,4 @@ def pdf_to_csv(pdf_path, csv_path):
     print(f"CSV file saved as: {csv_path}")
 
 # Example usage
-pdf_to_csv("input.pdf", "output.csv"
+pdf_to_csv("input.pdf", "output.csv")
